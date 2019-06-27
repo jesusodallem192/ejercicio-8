@@ -24,6 +24,20 @@ header h1 {
     display: inline-block;
     font-size: 20px;
 }
-section {
+section#cover {
     text-align: center;
+    margin-bottom: 40px;
+}
+
+section#listado-tours {
+    background-color: red;
+}
+
+section#listado-tours {
+    text-align: center;
+}
+
+section#listado-tours img {
+    width: 300px;
+
 }
